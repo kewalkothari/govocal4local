@@ -1,7 +1,7 @@
 {
   "name": "govocal4local",
   "version": "0.1.0",
-  "homepage": "https://kewalkothari.github.io/govocal4local",
+  "homepage": "https://kewalkothari.github.io/govocal4local/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
