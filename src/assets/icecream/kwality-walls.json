@@ -1,0 +1,24 @@
+{
+    "companyName": "Kwality Wall's",
+    "companyImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Kwality_Walls_logo.svg",
+    "parameters": {
+        "1": {
+            "parameterValue": "Oil Based", "parameterSeverity": "bad"
+        },
+        "2": {
+            "parameterValue": "No", "parameterSeverity": "bad"
+        },
+        "3": {
+            "parameterValue": "Yes", "parameterSeverity": "average"
+        },
+        "4": {
+            "parameterValue": "No", "parameterSeverity": "bad"
+        },
+        "5": {
+            "parameterValue": "No", "parameterSeverity": "bad"
+        },
+        "6": {
+            "parameterValue": "Yes", "parameterSeverity": "average"
+        }
+    }
+}   

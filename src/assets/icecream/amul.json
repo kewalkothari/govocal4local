@@ -1,0 +1,30 @@
+{
+    "companyName": "Amul",
+    "companyImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Amul_Logo.jpg",
+    "parameters": {
+        "1": {
+            "parameterValue": "Milk Based",
+            "parameterSeverity": "good"
+        },
+        "2": {
+            "parameterValue": "Yes",
+            "parameterSeverity": "good"
+        },
+        "3": {
+            "parameterValue": "Yes",
+            "parameterSeverity": "average"
+        },
+        "4": {
+            "parameterValue": "Yes",
+            "parameterSeverity": "good"
+        },
+        "5": {
+            "parameterValue": "Yes",
+            "parameterSeverity": "good"
+        },
+        "6": {
+            "parameterValue": "Yes",
+            "parameterSeverity": "good"
+        }
+    }
+}
